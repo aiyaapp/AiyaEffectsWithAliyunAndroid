@@ -1,0 +1,3 @@
+# Referenced at /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/app/intermediates/manifests/full/debug/AndroidManifest.xml:37
+-keep class com.aliyun.alivcsolution.MutiApplication { <init>(...); }
+

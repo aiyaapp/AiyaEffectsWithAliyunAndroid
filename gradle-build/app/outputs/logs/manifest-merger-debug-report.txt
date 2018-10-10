@@ -1,0 +1,1196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:2:1-58:12
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-117:12
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-41:12
+MERGED from [AliyunVodPlayer-3.4.6.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunVodPlayer-3.4.6.aar/a67249fb94c23685daffb1184b5badad/AndroidManifest.xml:2:1-14:12
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-72:12
+MERGED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-105:12
+MERGED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-32:12
+MERGED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-48:12
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-25:12
+MERGED from [:AliyunView] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunView/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-29:12
+MERGED from [:AliyunResample] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunResample/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-53:12
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-72:12
+MERGED from [hipraiseanimationlib.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/hipraiseanimationlib.aar/e046b73398bd7bfd40bd354edae2a7b0/AndroidManifest.xml:2:1-17:12
+MERGED from [interactive-liveroom-1.0.0.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/interactive-liveroom-1.0.0.aar/ffc7dfcb46808a7c61091a4fad183527/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ee500e08813b608beeca8f215971ed7e/AndroidManifest.xml:17:1-22:12
+MERGED from [:AliyunPusher:pusher_core] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_core/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [live-face-beauty-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-face-beauty-3.3.5.aar/ab45b0d959a19716e37dd7f0c014f703/AndroidManifest.xml:2:1-11:12
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:2:1-19:12
+MERGED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-27:12
+MERGED from [pub.devrel:easypermissions:0.2.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.1.aar/d83ea99c10790cff8387a21328ec44e9/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:24.2.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/b6d3ceaaf4561fd1025ab62276cf79f3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e023bcd75bf9a28229264368a52be847/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v13:23.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v13-23.4.0.aar/2c1afc7cc1ea5d5a8ee4eabf6b26cfd8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4769d2e5caad7b82023c161cabddfb75/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b007e0722c7c96aedff266e8fb35373d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:2:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:17:1-59:12
+MERGED from [:Aliyunplayer:AlivcReporter] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcReporter-1.2.aar/8fe3e16c6f1c012d2481f4e62fe42025/AndroidManifest.xml:2:1-17:12
+MERGED from [:Aliyunplayer:AlivcPlayer] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcPlayer-3.4.6.aar/29c8319d7dcf281c86838e90fe7f800c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.aiyaapp.aavt:aavt:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/aavt-v4.0.8.aar/5310eb314eca47af034394fcf77f0701/AndroidManifest.xml:2:1-17:12
+MERGED from [com.aiyaapp.aiya:AyCore:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyCore-v4.0.8.aar/6c2720ffa29af348551f2b11027f662b/AndroidManifest.xml:2:1-17:12
+MERGED from [com.aiyaapp.aiya:AyEffect:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyEffect-v4.0.8.aar/d5dcc66cf80aa5a3d1e2ad52ea3bd12a/AndroidManifest.xml:2:1-17:12
+MERGED from [com.aiyaapp.aiya:AyBeauty:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyBeauty-v4.0.8.aar/01e28350199b7f51ef0ba7b1fb1389c7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.aiyaapp.aiya:AyFaceTrack:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyFaceTrack-v4.0.8.aar/993bbb420da9d383d91f93f10b1c5ae3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.aiyaapp.aiya:AyShortVideoEffect:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyShortVideoEffect-v4.0.8.aar/c9173cbd9160b55e6851f726acdd2661/AndroidManifest.xml:2:1-17:12
+MERGED from [:AliyunVideoSdk] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/d2553a73a873860086bca3e72f563fd9/AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/9f12f3d3c43186baae54ba6edf359fc4/AndroidManifest.xml:2:1-17:12
+MERGED from [com.liulishuo.filedownloader:library:1.4.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/9b889ba444e769c0f881cd7bea6c2510/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/591a531e38f10b3a73213f047c0a0432/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54cb0b5c2c0ac2d6196b350a27a82d9d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7ae0aa6d446aeebdca473205179bdf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e4336413e1915d15f7f97a5f1011a46/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7b780938da5b538a0e26b8804c565ef0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ba9f4a578b96a20be32f0167770484de/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7fba309a98e9fadf2ac096d97b0e4190/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/60506d68145f0d3df572b31017860400/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-67
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-67
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-67
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-67
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-67
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-67
+MERGED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:11:5-67
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:11:5-67
+MERGED from [:Aliyunplayer:AlivcReporter] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcReporter-1.2.aar/8fe3e16c6f1c012d2481f4e62fe42025/AndroidManifest.xml:12:5-67
+MERGED from [:Aliyunplayer:AlivcReporter] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcReporter-1.2.aar/8fe3e16c6f1c012d2481f4e62fe42025/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:6:5-65
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-66
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-66
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-66
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-66
+MERGED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-66
+MERGED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:6:22-63
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:7:5-70
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-71
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-71
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-71
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-71
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-71
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-71
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:16:5-71
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:8:5-64
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-65
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-65
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-65
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-65
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-65
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-65
+MERGED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-65
+MERGED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:9:5-78
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-79
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-79
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-79
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-79
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-79
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-79
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-79
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-79
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-79
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-79
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:11:5-79
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:11:5-79
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:12:5-79
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:12:5-79
+MERGED from [:Aliyunplayer:AlivcReporter] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcReporter-1.2.aar/8fe3e16c6f1c012d2481f4e62fe42025/AndroidManifest.xml:11:5-79
+MERGED from [:Aliyunplayer:AlivcReporter] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcReporter-1.2.aar/8fe3e16c6f1c012d2481f4e62fe42025/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:11:5-80
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-81
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-81
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-81
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-81
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-81
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-81
+MERGED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-81
+MERGED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-81
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-81
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-81
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-81
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-81
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-81
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-81
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:14:5-81
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:14:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:26:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:12:5-83
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:19:5-84
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:19:5-84
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-84
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-84
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-84
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:12:22-81
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:13:5-78
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-79
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-79
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:19:5-79
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:14:5-67
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-68
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-68
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-68
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:15:5-75
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:22:5-76
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:22:5-76
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-76
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-76
+MERGED from [AliyunVodPlayer-3.4.6.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunVodPlayer-3.4.6.aar/a67249fb94c23685daffb1184b5badad/AndroidManifest.xml:11:5-76
+MERGED from [AliyunVodPlayer-3.4.6.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunVodPlayer-3.4.6.aar/a67249fb94c23685daffb1184b5badad/AndroidManifest.xml:11:5-76
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-76
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-76
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-76
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-76
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:12:5-76
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:12:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:13:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:13:5-76
+MERGED from [:Aliyunplayer:AlivcPlayer] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcPlayer-3.4.6.aar/29c8319d7dcf281c86838e90fe7f800c/AndroidManifest.xml:11:5-76
+MERGED from [:Aliyunplayer:AlivcPlayer] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcPlayer-3.4.6.aar/29c8319d7dcf281c86838e90fe7f800c/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:16:5-75
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:23:5-76
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:23:5-76
+MERGED from [AliyunVodPlayer-3.4.6.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunVodPlayer-3.4.6.aar/a67249fb94c23685daffb1184b5badad/AndroidManifest.xml:12:5-76
+MERGED from [AliyunVodPlayer-3.4.6.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunVodPlayer-3.4.6.aar/a67249fb94c23685daffb1184b5badad/AndroidManifest.xml:12:5-76
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-76
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-76
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:22:5-76
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:22:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:15:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:17:5-67
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-68
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-68
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-68
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-68
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:23:5-68
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:18:5-79
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-80
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-80
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-80
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-80
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:17:5-80
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:19:5-74
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:26:5-75
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:26:5-75
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-75
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-75
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-75
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-75
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-75
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-75
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:14:5-75
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:19:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:20:5-80
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-81
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-81
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:26:5-81
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:21:5-79
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-80
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-80
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-80
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-80
+MERGED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-80
+MERGED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-80
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-80
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-80
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-80
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:25:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:21:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:22:5-68
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:29:5-68
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:29:5-68
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-68
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-68
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:13:5-68
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:22:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:23:5-78
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-78
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-78
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:29:5-78
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:29:5-78
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:15:5-78
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:23:22-75
+application
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:25:5-56:19
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:32:5-115:19
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:32:5-115:19
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-39:19
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-39:19
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:23:5-70:19
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:23:5-70:19
+MERGED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-103:19
+MERGED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-103:19
+MERGED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-30:19
+MERGED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-30:19
+MERGED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-46:19
+MERGED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-46:19
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:19:5-23:19
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:19:5-23:19
+MERGED from [:AliyunView] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunView/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
+MERGED from [:AliyunView] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunView/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
+MERGED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-27:19
+MERGED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-27:19
+MERGED from [:AliyunResample] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunResample/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:AliyunResample] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunResample/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-51:19
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-51:19
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:31:5-70:19
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:31:5-70:19
+MERGED from [hipraiseanimationlib.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/hipraiseanimationlib.aar/e046b73398bd7bfd40bd354edae2a7b0/AndroidManifest.xml:11:5-15:19
+MERGED from [hipraiseanimationlib.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/hipraiseanimationlib.aar/e046b73398bd7bfd40bd354edae2a7b0/AndroidManifest.xml:11:5-15:19
+MERGED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-25:19
+MERGED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-25:19
+MERGED from [pub.devrel:easypermissions:0.2.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.1.aar/d83ea99c10790cff8387a21328ec44e9/AndroidManifest.xml:12:5-20
+MERGED from [pub.devrel:easypermissions:0.2.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.1.aar/d83ea99c10790cff8387a21328ec44e9/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:design:24.2.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/b6d3ceaaf4561fd1025ab62276cf79f3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/b6d3ceaaf4561fd1025ab62276cf79f3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e023bcd75bf9a28229264368a52be847/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e023bcd75bf9a28229264368a52be847/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:23.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v13-23.4.0.aar/2c1afc7cc1ea5d5a8ee4eabf6b26cfd8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v13-23.4.0.aar/2c1afc7cc1ea5d5a8ee4eabf6b26cfd8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4769d2e5caad7b82023c161cabddfb75/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4769d2e5caad7b82023c161cabddfb75/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b007e0722c7c96aedff266e8fb35373d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b007e0722c7c96aedff266e8fb35373d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:17:5-20:19
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:17:5-20:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:28:5-57:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:28:5-57:19
+MERGED from [:Aliyunplayer:AlivcReporter] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcReporter-1.2.aar/8fe3e16c6f1c012d2481f4e62fe42025/AndroidManifest.xml:14:5-15:19
+MERGED from [:Aliyunplayer:AlivcReporter] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcReporter-1.2.aar/8fe3e16c6f1c012d2481f4e62fe42025/AndroidManifest.xml:14:5-15:19
+MERGED from [com.aiyaapp.aavt:aavt:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/aavt-v4.0.8.aar/5310eb314eca47af034394fcf77f0701/AndroidManifest.xml:11:5-15:19
+MERGED from [com.aiyaapp.aavt:aavt:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/aavt-v4.0.8.aar/5310eb314eca47af034394fcf77f0701/AndroidManifest.xml:11:5-15:19
+MERGED from [com.aiyaapp.aiya:AyCore:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyCore-v4.0.8.aar/6c2720ffa29af348551f2b11027f662b/AndroidManifest.xml:11:5-15:19
+MERGED from [com.aiyaapp.aiya:AyCore:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyCore-v4.0.8.aar/6c2720ffa29af348551f2b11027f662b/AndroidManifest.xml:11:5-15:19
+MERGED from [com.aiyaapp.aiya:AyEffect:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyEffect-v4.0.8.aar/d5dcc66cf80aa5a3d1e2ad52ea3bd12a/AndroidManifest.xml:11:5-15:19
+MERGED from [com.aiyaapp.aiya:AyEffect:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyEffect-v4.0.8.aar/d5dcc66cf80aa5a3d1e2ad52ea3bd12a/AndroidManifest.xml:11:5-15:19
+MERGED from [com.aiyaapp.aiya:AyFaceTrack:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyFaceTrack-v4.0.8.aar/993bbb420da9d383d91f93f10b1c5ae3/AndroidManifest.xml:11:5-15:19
+MERGED from [com.aiyaapp.aiya:AyFaceTrack:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyFaceTrack-v4.0.8.aar/993bbb420da9d383d91f93f10b1c5ae3/AndroidManifest.xml:11:5-15:19
+MERGED from [com.aiyaapp.aiya:AyShortVideoEffect:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyShortVideoEffect-v4.0.8.aar/c9173cbd9160b55e6851f726acdd2661/AndroidManifest.xml:11:5-15:19
+MERGED from [com.aiyaapp.aiya:AyShortVideoEffect:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyShortVideoEffect-v4.0.8.aar/c9173cbd9160b55e6851f726acdd2661/AndroidManifest.xml:11:5-15:19
+MERGED from [:AliyunVideoSdk] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/d2553a73a873860086bca3e72f563fd9/AndroidManifest.xml:11:5-16:19
+MERGED from [:AliyunVideoSdk] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/d2553a73a873860086bca3e72f563fd9/AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/9f12f3d3c43186baae54ba6edf359fc4/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/9f12f3d3c43186baae54ba6edf359fc4/AndroidManifest.xml:11:5-15:19
+MERGED from [com.liulishuo.filedownloader:library:1.4.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/9b889ba444e769c0f881cd7bea6c2510/AndroidManifest.xml:11:5-16:19
+MERGED from [com.liulishuo.filedownloader:library:1.4.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/9b889ba444e769c0f881cd7bea6c2510/AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/591a531e38f10b3a73213f047c0a0432/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/591a531e38f10b3a73213f047c0a0432/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54cb0b5c2c0ac2d6196b350a27a82d9d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54cb0b5c2c0ac2d6196b350a27a82d9d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7ae0aa6d446aeebdca473205179bdf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7ae0aa6d446aeebdca473205179bdf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e4336413e1915d15f7f97a5f1011a46/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e4336413e1915d15f7f97a5f1011a46/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7b780938da5b538a0e26b8804c565ef0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7b780938da5b538a0e26b8804c565ef0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ba9f4a578b96a20be32f0167770484de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ba9f4a578b96a20be32f0167770484de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7fba309a98e9fadf2ac096d97b0e4190/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7fba309a98e9fadf2ac096d97b0e4190/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/60506d68145f0d3df572b31017860400/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/60506d68145f0d3df572b31017860400/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:26:9-64
+activity#com.aliyun.alivcsolution.SplashActivity
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:33:9-42:20
+	android:screenOrientation
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:34:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:36:13-64
+	android:configChanges
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:35:13-48
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:33:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:40:27-74
+activity#com.aliyun.alivcsolution.MainActivity
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:44:9-51:20
+	android:screenOrientation
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:46:13-49
+	android:launchMode
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:46:50-80
+	android:theme
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:45:13-63
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:44:19-71
+intent-filter#android.intent.category.DEFAULT+com.aliyun.alivcsolution.main
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:47:13-50:29
+action#com.aliyun.alivcsolution.main
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:48:17-71
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:48:25-69
+category#android.intent.category.DEFAULT
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:49:17-75
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:49:27-73
+activity#com.aliyun.alivcsolution.DemoActivity
+ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:53:9-55:20
+	android:screenOrientation
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:54:13-49
+	android:launchMode
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:54:50-80
+	android:name
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml:53:19-71
+uses-sdk
+INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [AliyunVodPlayer-3.4.6.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunVodPlayer-3.4.6.aar/a67249fb94c23685daffb1184b5badad/AndroidManifest.xml:7:5-9:41
+MERGED from [AliyunVodPlayer-3.4.6.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunVodPlayer-3.4.6.aar/a67249fb94c23685daffb1184b5badad/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunView] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunView/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunView] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunView/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunResample] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunResample/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunResample] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunResample/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [hipraiseanimationlib.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/hipraiseanimationlib.aar/e046b73398bd7bfd40bd354edae2a7b0/AndroidManifest.xml:7:5-9:41
+MERGED from [hipraiseanimationlib.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/hipraiseanimationlib.aar/e046b73398bd7bfd40bd354edae2a7b0/AndroidManifest.xml:7:5-9:41
+MERGED from [interactive-liveroom-1.0.0.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/interactive-liveroom-1.0.0.aar/ffc7dfcb46808a7c61091a4fad183527/AndroidManifest.xml:8:5-10:41
+MERGED from [interactive-liveroom-1.0.0.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/interactive-liveroom-1.0.0.aar/ffc7dfcb46808a7c61091a4fad183527/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.2] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ee500e08813b608beeca8f215971ed7e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ee500e08813b608beeca8f215971ed7e/AndroidManifest.xml:20:5-43
+MERGED from [:AliyunPusher:pusher_core] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_core/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunPusher:pusher_core] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_core/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [live-face-beauty-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-face-beauty-3.3.5.aar/ab45b0d959a19716e37dd7f0c014f703/AndroidManifest.xml:7:5-9:41
+MERGED from [live-face-beauty-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-face-beauty-3.3.5.aar/ab45b0d959a19716e37dd7f0c014f703/AndroidManifest.xml:7:5-9:41
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:7:5-9:41
+MERGED from [live-pusher-3.3.5.aar] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/live-pusher-3.3.5.aar/1e88c9beb79d44509570d14652667f52/AndroidManifest.xml:7:5-9:41
+MERGED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.2.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.1.aar/d83ea99c10790cff8387a21328ec44e9/AndroidManifest.xml:8:5-10:41
+MERGED from [pub.devrel:easypermissions:0.2.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.1.aar/d83ea99c10790cff8387a21328ec44e9/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:24.2.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/b6d3ceaaf4561fd1025ab62276cf79f3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/b6d3ceaaf4561fd1025ab62276cf79f3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e023bcd75bf9a28229264368a52be847/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e023bcd75bf9a28229264368a52be847/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v13:23.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v13-23.4.0.aar/2c1afc7cc1ea5d5a8ee4eabf6b26cfd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:23.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v13-23.4.0.aar/2c1afc7cc1ea5d5a8ee4eabf6b26cfd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4769d2e5caad7b82023c161cabddfb75/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4769d2e5caad7b82023c161cabddfb75/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b007e0722c7c96aedff266e8fb35373d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b007e0722c7c96aedff266e8fb35373d/AndroidManifest.xml:20:5-44
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/oss-android-sdk-2.4.5.aar/3f6c74cb346830c226eb3b36baa1167a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:20:5-22:41
+MERGED from [:Aliyunplayer:AlivcReporter] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcReporter-1.2.aar/8fe3e16c6f1c012d2481f4e62fe42025/AndroidManifest.xml:7:5-9:41
+MERGED from [:Aliyunplayer:AlivcReporter] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcReporter-1.2.aar/8fe3e16c6f1c012d2481f4e62fe42025/AndroidManifest.xml:7:5-9:41
+MERGED from [:Aliyunplayer:AlivcPlayer] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcPlayer-3.4.6.aar/29c8319d7dcf281c86838e90fe7f800c/AndroidManifest.xml:7:5-9:41
+MERGED from [:Aliyunplayer:AlivcPlayer] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcPlayer-3.4.6.aar/29c8319d7dcf281c86838e90fe7f800c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aavt:aavt:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/aavt-v4.0.8.aar/5310eb314eca47af034394fcf77f0701/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aavt:aavt:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/aavt-v4.0.8.aar/5310eb314eca47af034394fcf77f0701/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aiya:AyCore:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyCore-v4.0.8.aar/6c2720ffa29af348551f2b11027f662b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aiya:AyCore:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyCore-v4.0.8.aar/6c2720ffa29af348551f2b11027f662b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aiya:AyEffect:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyEffect-v4.0.8.aar/d5dcc66cf80aa5a3d1e2ad52ea3bd12a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aiya:AyEffect:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyEffect-v4.0.8.aar/d5dcc66cf80aa5a3d1e2ad52ea3bd12a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aiya:AyBeauty:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyBeauty-v4.0.8.aar/01e28350199b7f51ef0ba7b1fb1389c7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aiya:AyBeauty:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyBeauty-v4.0.8.aar/01e28350199b7f51ef0ba7b1fb1389c7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aiya:AyFaceTrack:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyFaceTrack-v4.0.8.aar/993bbb420da9d383d91f93f10b1c5ae3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aiya:AyFaceTrack:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyFaceTrack-v4.0.8.aar/993bbb420da9d383d91f93f10b1c5ae3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aiya:AyShortVideoEffect:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyShortVideoEffect-v4.0.8.aar/c9173cbd9160b55e6851f726acdd2661/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aiyaapp.aiya:AyShortVideoEffect:v4.0.8] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AyShortVideoEffect-v4.0.8.aar/c9173cbd9160b55e6851f726acdd2661/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunVideoSdk] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/d2553a73a873860086bca3e72f563fd9/AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunVideoSdk] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/d2553a73a873860086bca3e72f563fd9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/9f12f3d3c43186baae54ba6edf359fc4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/9f12f3d3c43186baae54ba6edf359fc4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.liulishuo.filedownloader:library:1.4.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/9b889ba444e769c0f881cd7bea6c2510/AndroidManifest.xml:7:5-9:41
+MERGED from [com.liulishuo.filedownloader:library:1.4.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/9b889ba444e769c0f881cd7bea6c2510/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/591a531e38f10b3a73213f047c0a0432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/591a531e38f10b3a73213f047c0a0432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54cb0b5c2c0ac2d6196b350a27a82d9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54cb0b5c2c0ac2d6196b350a27a82d9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7ae0aa6d446aeebdca473205179bdf/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7ae0aa6d446aeebdca473205179bdf/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e4336413e1915d15f7f97a5f1011a46/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e4336413e1915d15f7f97a5f1011a46/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7b780938da5b538a0e26b8804c565ef0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7b780938da5b538a0e26b8804c565ef0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ba9f4a578b96a20be32f0167770484de/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ba9f4a578b96a20be32f0167770484de/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7fba309a98e9fadf2ac096d97b0e4190/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7fba309a98e9fadf2ac096d97b0e4190/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/60506d68145f0d3df572b31017860400/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/60506d68145f0d3df572b31017860400/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e023bcd75bf9a28229264368a52be847/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyang/Downloads/ApsaraVideo_20180712/app/src/main/AndroidManifest.xml
+activity#com.alivc.live.pusher.demo.ui.activity.MainActivity
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:38:9-44:20
+	android:screenOrientation
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-49
+	android:windowSoftInputMode
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:43:13-64
+	android:configChanges
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-48
+	android:theme
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:42:13-63
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-79
+activity#com.alivc.live.pusher.demo.ui.activity.PushConfigActivity
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:45:9-50:20
+	android:screenOrientation
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:48:13-49
+	android:launchMode
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:47:13-44
+	android:theme
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:46:13-85
+activity#com.alivc.live.pusher.demo.ui.activity.SecondActivity
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:51:9-56:20
+	android:screenOrientation
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:54:13-49
+	android:launchMode
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:53:13-44
+	android:theme
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:55:13-63
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:52:13-81
+activity#com.alivc.live.pusher.demo.ui.activity.VideoRecordConfigActivity
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:57:9-63:20
+	android:screenOrientation
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:61:13-49
+	android:launchMode
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:60:13-44
+	android:configChanges
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:59:13-74
+	android:theme
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:62:13-63
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:58:13-92
+activity#com.alivc.live.pusher.demo.ui.activity.LicenseActivity
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:64:9-69:20
+	android:screenOrientation
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:67:13-49
+	android:launchMode
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:66:13-44
+	android:theme
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:68:13-63
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:65:13-82
+activity#com.alivc.live.pusher.demo.ui.activity.LivePushActivity
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:70:9-75:20
+	android:launchMode
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:73:13-44
+	android:configChanges
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:72:13-74
+	android:theme
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:74:13-63
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:71:13-83
+activity#com.mob.tools.MobUIShell
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:76:9-106:20
+	android:windowSoftInputMode
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:80:13-67
+	android:configChanges
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:78:13-74
+	android:theme
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:79:13-72
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:77:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:81:13-88:29
+data
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:82:17-59
+	android:scheme
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:82:23-56
+action#android.intent.action.VIEW
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:84:17-69
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:84:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:86:17-78
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:86:27-75
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:91:13-95:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:92:17-92
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:92:25-89
+meta-data#Mob-AppKey
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:109:9-111:45
+	android:value
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:111:13-42
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:110:13-38
+meta-data#Mob-AppSecret
+ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:112:9-114:45
+	android:value
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:114:13-42
+	android:name
+		ADDED from [:AliyunPusher:pusher_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunPusher/pusher_demo/intermediates/manifests/full/debug/AndroidManifest.xml:113:13-41
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-73
+MERGED from [:Aliyunplayer:AlivcPlayer] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcPlayer-3.4.6.aar/29c8319d7dcf281c86838e90fe7f800c/AndroidManifest.xml:12:5-73
+MERGED from [:Aliyunplayer:AlivcPlayer] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AlivcPlayer-3.4.6.aar/29c8319d7dcf281c86838e90fe7f800c/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:17:22-70
+activity#com.aliyun.vodplayerview.activity.AliyunPlayerSettingActivity
+ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-27:20
+	android:screenOrientation
+		ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:26:13-49
+	android:configChanges
+		ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-74
+	android:name
+		ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-89
+activity#com.aliyun.vodplayerview.activity.AliyunPlayerSkinActivity
+ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:28:9-38:20
+	android:screenOrientation
+		ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:31:13-49
+	android:configChanges
+		ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:29:13-86
+intent-filter#android.intent.category.DEFAULT+com.aliyun.vodplayerview.activity.player
+ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:33:13-37:29
+action#com.aliyun.vodplayerview.activity.player
+ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:34:17-83
+	android:name
+		ADDED from [:Aliyunplayer:player_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Aliyunplayer/player_demo/intermediates/manifests/full/debug/AndroidManifest.xml:34:25-80
+uses-feature#0x00020000
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-18:35
+	android:glEsVersion
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:18:9-32
+activity#com.aliyun.demo.recorder.CameraDemo
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:24:9-33:20
+	android:screenOrientation
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:26:13-49
+	android:theme
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-63
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.camera
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:28:13-32:29
+action#com.duanqu.qupai.action.camera
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:29:17-73
+	android:name
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:29:25-70
+activity#com.aliyun.demo.recorder.RecorderSettingTest
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:34:9-42:20
+	android:screenOrientation
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:35:13-72
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.recorder.setting
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-41:29
+action#com.duanqu.qupai.action.recorder.setting
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:38:17-83
+	android:name
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:38:25-80
+activity#com.aliyun.demo.recorder.VideoPlayActivity
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:43:9-47:20
+	android:screenOrientation
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:45:13-49
+	android:theme
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:46:13-66
+	android:name
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:44:13-70
+activity#com.aliyun.demo.recorder.MusicActivity
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:48:9-51:20
+	android:screenOrientation
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:49:13-66
+activity#com.aliyun.demo.recorder.AliyunVideoRecorder
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:52:9-62:20
+	android:screenOrientation
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:54:13-49
+	android:theme
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:55:13-55
+	tools:replace
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:56:13-42
+	android:name
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:53:13-72
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.recorder
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:57:13-61:29
+action#com.duanqu.qupai.action.recorder
+ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:58:17-75
+	android:name
+		ADDED from [:AliyunRecorder:record_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunRecorder/record_demo/intermediates/manifests/full/debug/AndroidManifest.xml:58:25-72
+activity#com.aliyun.demo.editor.EditorActivity
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:16:9-34:20
+	android:screenOrientation
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:19:13-45
+	android:exported
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:21:13-69
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-65
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.editor
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:28:13-33:29
+action#com.duanqu.qupai.action.editor
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:29:17-73
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:29:25-70
+activity#com.aliyun.demo.effectmanager.EffectManagerActivity
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:35:9-45:20
+	android:screenOrientation
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-45
+	android:theme
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:36:13-79
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.effectmanager
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-44:29
+action#com.duanqu.qupai.action.effectmanager
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:41:17-80
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:41:25-77
+activity#com.aliyun.demo.effectmanager.MorePasterActivity
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:46:9-56:20
+	android:screenOrientation
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:48:13-45
+	android:theme
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:50:13-69
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:47:13-76
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.morepaster
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:51:13-55:29
+action#com.duanqu.qupai.action.morepaster
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:52:25-74
+activity#com.aliyun.demo.effectmanager.MoreCaptionActivity
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:57:9-67:20
+	android:screenOrientation
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:59:13-45
+	android:theme
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:61:13-69
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:58:13-77
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.morecaption
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:62:13-66:29
+action#com.duanqu.qupai.action.morecaption
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:63:17-78
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:63:25-75
+activity#com.aliyun.demo.effectmanager.MoreMVActivity
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:68:9-78:20
+	android:screenOrientation
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:70:13-45
+	android:theme
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:72:13-69
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:69:13-72
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.moremv
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:73:13-77:29
+action#com.duanqu.qupai.action.moremv
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:74:17-73
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:74:25-70
+activity#com.aliyun.demo.publish.PublishActivity
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:79:9-87:20
+	android:screenOrientation
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:82:13-49
+	android:label
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:81:13-45
+	android:theme
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:83:13-69
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:80:13-67
+intent-filter#android.intent.category.DEFAULT
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:84:13-86:29
+activity#com.aliyun.demo.publish.CoverEditActivity
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:88:9-96:20
+	android:screenOrientation
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:90:13-45
+	android:theme
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:92:13-69
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:89:13-69
+activity#com.aliyun.demo.publish.UploadActivity
+ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:97:9-102:72
+	android:screenOrientation
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:100:13-45
+	android:hardwareAccelerated
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:99:13-47
+	android:theme
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:102:13-69
+	android:name
+		ADDED from [:AliyunEditor:editor_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunEditor/editor_demo/intermediates/manifests/full/debug/AndroidManifest.xml:98:13-66
+activity#com.aliyun.demo.importer.ImportEditSettingTest
+ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-20:20
+	android:screenOrientation
+		ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-49
+	android:name
+		ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-74
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.import.setting
+ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-19:29
+action#com.duanqu.qupai.action.import.setting
+ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:16:17-81
+	android:name
+		ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:16:25-78
+activity#com.aliyun.demo.importer.MediaActivity
+ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:21:9-29:20
+	android:screenOrientation
+		ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:22:13-66
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.import
+ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-28:29
+action#com.duanqu.qupai.action.import
+ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:25:17-73
+	android:name
+		ADDED from [:AliyunImport:import_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunImport/import_demo/intermediates/manifests/full/debug/AndroidManifest.xml:25:25-70
+activity#com.aliyun.demo.crop.CropSettingTest
+ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-22:20
+	android:screenOrientation
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-49
+	android:windowSoftInputMode
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-52
+	android:name
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-64
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.crop.setting
+ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-21:29
+action#com.duanqu.qupai.action.crop.setting
+ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:18:17-79
+	android:name
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:18:25-76
+activity#com.aliyun.demo.crop.MediaActivity
+ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-33:20
+	android:screenOrientation
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:26:13-55
+	tools:replace
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:27:13-42
+	android:name
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-62
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.crop
+ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:28:13-32:29
+action#com.duanqu.qupai.action.crop
+ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:29:17-71
+	android:name
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:29:25-68
+activity#com.aliyun.demo.crop.AliyunVideoCrop
+ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:34:9-39:20
+	android:screenOrientation
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:36:13-49
+	android:theme
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-55
+	tools:replace
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-42
+	android:name
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:35:13-64
+activity#com.aliyun.demo.crop.AliyunImageCrop
+ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:40:9-45:20
+	android:screenOrientation
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:43:13-55
+	tools:replace
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:44:13-42
+	android:name
+		ADDED from [:AliyunCrop:crop_demo] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunCrop/crop_demo/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-64
+service#com.liulishuo.filedownloader.services.FileDownloadService
+ADDED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:20:9-22:49
+	android:process
+		ADDED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:22:13-46
+	android:name
+		ADDED from [:AliyunFileDownLoader:downloadermanager] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/intermediates/manifests/full/debug/AndroidManifest.xml:21:13-85
+activity#com.aliyun.quhelp.AliyunHelperActivity
+ADDED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-49
+	android:label
+		ADDED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-66
+intent-filter#android.intent.category.DEFAULT+com.duanqu.qupai.action.help
+ADDED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-20:29
+action#com.duanqu.qupai.action.help
+ADDED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:17:17-71
+	android:name
+		ADDED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:17:25-68
+activity#com.aliyun.quhelp.CopyRightActivity
+ADDED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:22:9-26:20
+	android:screenOrientation
+		ADDED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from [:AliyunHelp] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunHelp/intermediates/manifests/full/debug/AndroidManifest.xml:23:13-63
+activity#com.alibaba.sdk.android.vodupload_demo.activity.MainActivity
+ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:24:9-28:20
+	android:screenOrientation
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-88
+activity#com.alibaba.sdk.android.vodupload_demo.activity.SVideoUploadActivity
+ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:29:9-32:52
+	android:screenOrientation
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:30:13-96
+activity#com.alibaba.sdk.android.vodupload_demo.activity.VodMultiUploadActivity
+ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:33:9-36:52
+	android:screenOrientation
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:35:13-53
+	android:name
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:34:13-98
+activity#com.alibaba.sdk.android.vodupload_demo.activity.MultiUploadActivity
+ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:37:9-40:52
+	android:screenOrientation
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-61
+	android:name
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-95
+activity#com.alibaba.sdk.android.vodupload_demo.activity.OSSMultiUploadActivity
+ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:41:9-44:52
+	android:screenOrientation
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:43:13-53
+	android:name
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:42:13-98
+activity#com.alibaba.sdk.android.vodupload_demo.activity.GetSTStokenActivity
+ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:46:13-95
+activity#com.alibaba.sdk.android.vodupload_demo.activity.GetVodAuthActivity
+ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from [:AliyunVodUpload] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunVodUpload/intermediates/manifests/full/debug/AndroidManifest.xml:49:13-94
+activity#com.aliyun.alivclive.homepage.activity.AlivcLiveMainActivity
+ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-40:72
+	android:screenOrientation
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-49
+	android:configChanges
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-48
+	android:theme
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-69
+	android:name
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-88
+activity#com.aliyun.alivclive.homepage.activity.AlivcLiveHomePageActivity
+ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:41:9-45:72
+	android:screenOrientation
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:44:13-49
+	android:configChanges
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:43:13-48
+	android:theme
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:45:13-69
+	android:name
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:42:13-92
+activity#com.aliyun.alivclive.setting.activity.AlivcUserSettingActivity
+ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:46:9-50:72
+	android:screenOrientation
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:49:13-49
+	android:configChanges
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:48:13-48
+	android:theme
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:50:13-69
+	android:name
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:47:13-90
+activity#com.aliyun.alivclive.setting.activity.AlivcModifyUserInfoActivity
+ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:51:9-55:72
+	android:screenOrientation
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:54:13-49
+	android:configChanges
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:53:13-48
+	android:theme
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:55:13-69
+	android:name
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:52:13-93
+activity#com.aliyun.alivclive.room.LiveRoomPushActivity
+ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:56:9-62:59
+	android:screenOrientation
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:60:13-49
+	android:launchMode
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:59:13-43
+	android:windowSoftInputMode
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:62:13-56
+	android:configChanges
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:58:13-48
+	android:theme
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:61:13-69
+	android:name
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:57:13-74
+activity#com.aliyun.alivclive.room.LiveRoomPlayActivity
+ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:63:9-69:59
+	android:screenOrientation
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:67:13-49
+	android:launchMode
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:66:13-43
+	android:windowSoftInputMode
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:69:13-56
+	android:configChanges
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:65:13-48
+	android:theme
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:68:13-69
+	android:name
+		ADDED from [:Alivclive] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/Alivclive/intermediates/manifests/full/debug/AndroidManifest.xml:64:13-74
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:14:19-67
+activity#com.google.zxing.activity.CaptureActivity
+ADDED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:22:9-24:66
+	android:theme
+		ADDED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-63
+	android:name
+		ADDED from [:zxing] /Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/zxing/intermediates/manifests/full/debug/AndroidManifest.xml:23:13-69
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e023bcd75bf9a28229264368a52be847/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4769d2e5caad7b82023c161cabddfb75/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4769d2e5caad7b82023c161cabddfb75/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b007e0722c7c96aedff266e8fb35373d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b007e0722c7c96aedff266e8fb35373d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/591a531e38f10b3a73213f047c0a0432/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/591a531e38f10b3a73213f047c0a0432/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54cb0b5c2c0ac2d6196b350a27a82d9d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/54cb0b5c2c0ac2d6196b350a27a82d9d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7ae0aa6d446aeebdca473205179bdf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7ae0aa6d446aeebdca473205179bdf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e4336413e1915d15f7f97a5f1011a46/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4e4336413e1915d15f7f97a5f1011a46/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7b780938da5b538a0e26b8804c565ef0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7b780938da5b538a0e26b8804c565ef0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ba9f4a578b96a20be32f0167770484de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ba9f4a578b96a20be32f0167770484de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7fba309a98e9fadf2ac096d97b0e4190/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7fba309a98e9fadf2ac096d97b0e4190/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e023bcd75bf9a28229264368a52be847/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e023bcd75bf9a28229264368a52be847/AndroidManifest.xml:27:13-51
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:29:9-32:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:32:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:30:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:33:9-35:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:34:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:37:9-49:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:39:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:41:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:40:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:43:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:38:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:50:9-56:68
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:52:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:54:13-82
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:53:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:56:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:55:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/a2c09bd91f3d48dc51a5dffa679307a6/AndroidManifest.xml:51:13-93
+activity#com.aliyun.nativecrash.NativeCrashActivity
+ADDED from [:AliyunVideoSdk] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/d2553a73a873860086bca3e72f563fd9/AndroidManifest.xml:15:9-79
+	android:name
+		ADDED from [:AliyunVideoSdk] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/d2553a73a873860086bca3e72f563fd9/AndroidManifest.xml:15:19-76
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/9f12f3d3c43186baae54ba6edf359fc4/AndroidManifest.xml:12:9-14:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/9f12f3d3c43186baae54ba6edf359fc4/AndroidManifest.xml:14:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/9f12f3d3c43186baae54ba6edf359fc4/AndroidManifest.xml:13:13-84
+service#com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService
+ADDED from [com.liulishuo.filedownloader:library:1.4.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/9b889ba444e769c0f881cd7bea6c2510/AndroidManifest.xml:12:9-118
+	android:name
+		ADDED from [com.liulishuo.filedownloader:library:1.4.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/9b889ba444e769c0f881cd7bea6c2510/AndroidManifest.xml:12:18-115
+service#com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService
+ADDED from [com.liulishuo.filedownloader:library:1.4.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/9b889ba444e769c0f881cd7bea6c2510/AndroidManifest.xml:13:9-15:49
+	android:process
+		ADDED from [com.liulishuo.filedownloader:library:1.4.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/9b889ba444e769c0f881cd7bea6c2510/AndroidManifest.xml:15:13-46
+	android:name
+		ADDED from [com.liulishuo.filedownloader:library:1.4.1] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/9b889ba444e769c0f881cd7bea6c2510/AndroidManifest.xml:14:13-108
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/60506d68145f0d3df572b31017860400/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/60506d68145f0d3df572b31017860400/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/60506d68145f0d3df572b31017860400/AndroidManifest.xml:26:13-58
