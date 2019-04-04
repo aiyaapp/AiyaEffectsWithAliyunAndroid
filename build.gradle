@@ -1,35 +1,36 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
-
 buildscript {
-
     repositories {
+       jcenter()
         google()
-        jcenter()
+        flatDir {
+            dirs 'src/main/aarLibs'
+        }
     }
-    apply from: 'thirdparty-lib/config.gradle'
+    apply from: file('config.gradle').exists() ? 'config.gradle' : 'config-stable.gradle'
     dependencies {
-        classpath externalAndroidBuildGradlePlugin
+        classpath 'com.android.tools.build:gradle:3.0.0'
         classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
-
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
+        classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.7.3'
     }
 }
 
 allprojects {
     repositories {
-        google()
         jcenter()
-        maven { url "https://dl.bintray.com/aiyaapp/sdk" }
+        google()
+        //maven { url 'http://mvnrepo.alibaba-inc.com/mvn/repository'}
+        flatDir {
+            dirs 'src/main/aarLibs'
+            dirs '../alivc-player-lib'
+        }
+        
+        // ---------- 哎吖科技添加 开始 ----------
+        maven { url 'https://dl.bintray.com/aiyaapp/sdk' }
+        // ---------- 哎吖科技添加 结束 ----------
     }
-
-    apply plugin: 'idea'
-    buildDir = new File(rootDir, "gradle-build/${path.replaceAll(':', '/')}")
 }
 
-task wrapper(type: Wrapper) {
-    gradleVersion = '4.2.1'
-}
 
 task clean(type: Delete) {
     delete rootProject.buildDir

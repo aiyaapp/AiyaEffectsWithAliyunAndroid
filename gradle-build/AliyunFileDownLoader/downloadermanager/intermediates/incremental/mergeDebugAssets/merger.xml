@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/wangyang/Downloads/ApsaraVideo_20180712/AliyunFileDownLoader/downloadermanager/src/main/assets"/><source path="/Users/wangyang/Downloads/ApsaraVideo_20180712/gradle-build/AliyunFileDownLoader/downloadermanager/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/wangyang/Downloads/ApsaraVideo_20180712/AliyunFileDownLoader/downloadermanager/src/debug/assets"/></dataSet></merger>
